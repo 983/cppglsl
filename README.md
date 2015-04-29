@@ -5,7 +5,7 @@ C++11 implementation of vec2, vec3, vec4, mat2, mat3, mat4, sampler2D with swizz
 
 Example output of fragment shader executed on the CPU:
 
-![alt tag](https://raw.githubusercontent.com/00v1/cppglsl/master/output.jpg)
+![Example](https://raw.githubusercontent.com/983/cppglsl/master/output.jpg)
 
 Why:
 
