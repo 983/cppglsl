@@ -1,3 +1,5 @@
+**This project is dead. A glsl to cpp compiler looks like a more promissing approach.**
+
 cppglsl
 =======
 
@@ -26,5 +28,3 @@ Limitations:
 - `out` and `inout` can not be converted to references with macros. Use the fix_inout.py script for that.
 - Swizzled members can not be used as `out` or `inout` parameters.
 - `dFdx`, `dFdy` and `fwidth` are not supported.
-
-This project will not be progressed further. A glsl to cpp compiler looks like a more promissing approach.
